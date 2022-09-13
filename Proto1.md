@@ -8,7 +8,11 @@ My first prototype is an exploration of the themes I set out to explore when I w
 While my answers just opened up more questions, I'm quite satisfied in the direction they took me and I'm excited to explore these themes further.
 
 ## What is a museum?
-Since I was familiar with the  began by asking my friends
+Acknowledging the "textbook" definition of a museum ("a building or institution that cares for and displays a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance"), I began by asking my friends how they would describe the concept of a museum. Two answers stood out to me: "a place that tells a story with objects" and "a place for aliens to get a crash course on human culture".
+
+The ideal museum exhibition (to me) uses artifacts to tell a story 
+
+what kind of art we made and liked, the kind of history we chose to preserve, the kind of science we highlight
 
 ### Art wi
 ![Art with Trigonometric functions in for() loops](https://github.com/mike-leo-k/intro-to-im/blob/master/june%202/digital_art_1.png)
