@@ -10,7 +10,7 @@ While my answers just opened up more questions, I'm quite satisfied in the direc
 ## What is a museum?
 Acknowledging the "textbook" definition of a museum ("a building or institution that cares for and displays a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance"), I began by asking my friends how they would describe the concept of a museum. Two answers stood out to me: "a place that tells a story with objects" and "a place for aliens to get a crash course on human culture".
 
-The ideal museum exhibition (to me) uses artifacts to tell a story 
+The ideal museum exhibition (to me) uses artifacts to tell a engaging story.
 
 what kind of art we made and liked, the kind of history we chose to preserve, the kind of science we highlight
 
