@@ -1,4 +1,8 @@
-# Production Assignment: Digital Art with Loops
+# Prototype 3: seven hours.
+
+![alt](images/final1.jpg) | ![alt](images/final1.jpg) | ![alt](images/final1.jpg)
+
+![alt](images/final1.jpg) | ![alt](images/final1.jpg)
 
 ## Description
 Two simple works of art, inspired by old computer generated graphics. Makes use of for() loops to achieve the "vintage" look of classic computer art. I used [this](https://www.youtube.com/watch?v=LaarVR1AOvs) tutorial for inspiration.
