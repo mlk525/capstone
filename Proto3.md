@@ -1,8 +1,16 @@
 # Prototype 3: seven hours.
 
-![alt](images/final1.jpg) | ![alt](images/final1.jpg) | ![alt](images/final1.jpg)
+<table><tr>
+<td> <img src="images/final1.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="images/final2.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="images/final1.jpg" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 
-![alt](images/final1.jpg) | ![alt](images/final1.jpg)
+
+<table><tr>
+<td> <img src="images/final1.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="images/final2.jpg" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 
 ## Description
 Two simple works of art, inspired by old computer generated graphics. Makes use of for() loops to achieve the "vintage" look of classic computer art. I used [this](https://www.youtube.com/watch?v=LaarVR1AOvs) tutorial for inspiration.
