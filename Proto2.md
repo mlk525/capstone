@@ -16,7 +16,11 @@ Two simple works of art, inspired by old computer generated graphics. Makes use 
 ![Art with random() functions in for() loops](https://github.com/mlk525/intro-to-im/blob/master/june%202/digital_art_2.gif)
 </details>
 
+[![ IMAGE ALT TEXT HERE](image link)](videolink)
 
+https://youtu.be/SrVwAy6U0YM
+
+zellij: https://youtu.be/Li-B1tOE9Wk
 ## Challenges/Discoveries
 * Using the rotate() function within the for() loop proved more challenging than I thought, but I was able to manipulate it satisfactorily after reading up on its Reference page.
 * The random() function generates decimal numbers as well, which aren't accepted in RGB values, so I truncated it by adding (int) before each random() function.
