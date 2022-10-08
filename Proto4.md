@@ -20,4 +20,20 @@ What does interactive mean in the context of the exhibition? I've drawn up a che
 - [ ] Ideally multiple people can engage with it simultaneously.
 - [ ] The space should feel almost like a game. It should encourage exploration.
 
+### What are the Themes?
+* Reclaiming/recontextualizing heritage
+* Addressing misrepresentation
+* Telling stories that don't get told
+* Breaking down hierarchies: questioning who gets to tell stories, who was the authority to make the "big" narrative decisions.
+* Anticolonialism, immigrant culture and oppression, empowering marginalized voices, active and informed consent in matters of culture and heritage.
+* And of course, interactivity.
 
+### Ideas for pieces
+* A gallery of colonialist exhibits, the kind you see at most major museums and galleries, with augmented reality capacity that displays a role-reversed colonial exhibit.
+* A gallery of role-reversed colonial exhibits.
+* A virtual record of a marginalized voice: database of answers to potential questions from the audience that they can interact with.
+* Making a traditional musical instrument from scratch that the audience can then play.
+* An expanded (and more mandala-like) version of my transient crochet piece.
+* An arcade-style game that explores the struggles of living as an immigrant in the UAE. Focus on labor abuses throughout the public and private sector, as well as attitudes of discrimination and erasure.
+* A physical installation in the style of a Rube Goldberg machine that demonstrated the snowball effect of imperialism and colonialism on the present.
+* An immersive installation that challenges how players “inhabit” bodies through first-person narratives.
