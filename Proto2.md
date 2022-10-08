@@ -46,3 +46,5 @@ Seeing how the spinning changed my perception of the shape, I was reminded of th
 </tr></table>
 
 [Code](https://github.com/mlk525/capstone/blob/main/code/expo_pattern.pde)
+
+This was an interesting exercise and I was surprised at how I ended up exploring Islamic geometric patterns, having begun with vintage computer art. Islamic geometric patterns have been widely used in Islamic ornament since the ninth century, and the amount of Islamic art and architecture to feature it is astonishing. Moroccan zellij tiles are only one of the many art forms that employ it, and the idea of using digital art to recreate these patterns is certainly intriguing. Presenting this sort of duality between "traditional" heritage and recontextualized heritage seems like an interesting avenue to explore.
