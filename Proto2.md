@@ -1,14 +1,10 @@
 # Production Assignment: Digital Art with Loops
 
 ## Description
-Two simple works of art, inspired by old computer generated graphics. Makes use of for() loops to achieve the "vintage" look of classic computer art. I used [this](https://www.youtube.com/watch?v=LaarVR1AOvs) tutorial for inspiration.
 
-## Screenshot of Output:
 
-### Art with rotate() and trigonometric functions within for loops
+## Geometric Art inspired by "vintage" computer graphics
 ![Art with Trigonometric functions in for() loops](https://github.com/mike-leo-k/intro-to-im/blob/master/june%202/digital_art_1.png)
-
-### Art with random() function within for() loops
 
 <details>
   <summary>Warning, fast flashing images!</summary>
@@ -16,12 +12,14 @@ Two simple works of art, inspired by old computer generated graphics. Makes use 
 ![Art with random() functions in for() loops](https://github.com/mlk525/intro-to-im/blob/master/june%202/digital_art_2.gif)
 </details>
 
-[![ IMAGE ALT TEXT HERE](image link)](videolink)
+## Algorithmic Art inspired by geometric Zellij pieces
+[![Algorithmic Zellij pattern](images/zellij%20pattern.png)](https://youtu.be/Li-B1tOE9Wk)
 
-https://youtu.be/SrVwAy6U0YM
+## Algorithmic Art inspired by Islamic geometric patterns & the Expo 2020 logo design
+<table border="0" width="100%"><tr>
+  <td> <a href="https://youtu.be/SrVwAy6U0YM"><img src="images/blue pattern.png" alt="Expo 2020 Blue Logo style" style="width: 100%;"/></a></td>
+  <td> <a href="https://youtu.be/SrVwAy6U0YM"><img src="images/gold pattern.png" alt="Expo 2020 GOld Logo style" style="width: 100%;"/></a></td>
+</tr></table>
 
-zellij: https://youtu.be/Li-B1tOE9Wk
 ## Challenges/Discoveries
-* Using the rotate() function within the for() loop proved more challenging than I thought, but I was able to manipulate it satisfactorily after reading up on its Reference page.
-* The random() function generates decimal numbers as well, which aren't accepted in RGB values, so I truncated it by adding (int) before each random() function.
-* Playing around with the sin() function and observing the effects of multiplicative and additive factors was actually quite interesting.
+* 
