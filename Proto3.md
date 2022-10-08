@@ -1,19 +1,25 @@
 # Prototype 3: seven hours.
 
+## Description
+Exploring the idea of recontextualizing traditions and heritage further, I decided to create my own interactive art piece based on the principles of the Tibetan Buddhist tradition of sand mandalas. Sand mandalas are meticulously crafted, traditionally taking several weeks to build due to the large amount of work involved in laying down the sand in such intricate detail. A sand mandala is ritualistically dismantled once it has been completed and its accompanying ceremonies and viewing are finished to symbolize the Buddhist doctrinal belief in the transitory nature of material life.
+
+I decided to create a textile piece designed to be destroyed over the course of its display as an interactive art work that reflected on impermanence and the idea of making peace with your hard work being intentionally destroyed. 
+
 <table border="0" width="100%"><tr>
 <td> <img src="images/prep2.jpg" alt="'finished' crochet piece" style="width: 100%;"/> </td>
 <td> <img src="images/prep3.jpg" alt="text draft" style="width: 100%;"/> </td>
 <td> <img src="images/prep5.jpg" alt="text final" style="width: 100%;"/> </td>
 </tr></table>
 
+I crocheted a swatch of yarn, about 25x31cm, and left the last stitch loose. While crocheting the piece, I drafted a piece of paper that would go behind the fabric, designed to be slowly revealed as the fabric was pulled undone. I titled the piece "seven hours" because of the total amount of time it took me to finish it (and consequently the final message on the paper). 
+
 <table border="0" width="100%"><tr>
 <td> <img src="images/piece1.jpg" alt="'final' piece" style="width: 100%;"/> </td>
 <td> <img src="images/piece2.jpg" alt="'final' piece" style="width: 100%;"/> </td>
 <td> <img src="images/piece3.jpg" alt="piece in progress" style="width: 100%;"/> </td>
 <td> <img src="images/piece4.jpg" alt="piece in progress" style="width: 100%;"/> </td>
-</tr></table>
-
-<table border="0" width="100%"><tr>
+</tr>
+<tr>
 <td> <img src="images/piece5.jpg" alt="piece in progress" style="width: 100%;"/> </td>
 <td> <img src="images/piece6.jpg" alt="piece in progress" style="width: 100%;"/> </td>
 <td> <img src="images/piece7.jpg" alt="piece in progress" style="width: 100%;"/> </td>
