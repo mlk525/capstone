@@ -1,15 +1,29 @@
 # Prototype 3: seven hours.
 
 <table border="0" width="100%"><tr>
-<td> <img src="images/final1.jpg" alt="Drawing" style="width: 100%;"/> </td>
-<td> <img src="images/final2.jpg" alt="Drawing" style="width: 100%;"/> </td>
-<td> <img src="images/final1.jpg" alt="Drawing" style="width: 100%;"/> </td>
+<td> <img src="images/prep1.jpg" alt="'finished' crochet piece" style="width: 100%;"/> </td>
+<td> <img src="images/prep2.jpg" alt="'finished' crochet piece" style="width: 100%;"/> </td>
+<td> <img src="images/prep3.jpg" alt="text draft" style="width: 100%;"/> </td>
+<td> <img src="images/prep4.jpg" alt="text final" style="width: 100%;"/> </td>
 </tr></table>
 
+<table border="0" width="100%"><tr>
+<td> <img src="images/piece1.jpg" alt="'final' piece" style="width: 100%;"/> </td>
+<td> <img src="images/piece2.jpg" alt="'final' piece" style="width: 100%;"/> </td>
+<td> <img src="images/piece3.jpg" alt="piece in progress" style="width: 100%;"/> </td>
+<td> <img src="images/piece4.jpg" alt="piece in progress" style="width: 100%;"/> </td>
+</tr></table>
 
 <table border="0" width="100%"><tr>
-<td> <img src="images/final1.jpg" alt="Drawing" style="width: 100%;"/> </td>
-<td> <img src="images/final2.jpg" alt="Drawing" style="width: 100%;"/> </td>
+<td> <img src="images/piece5.jpg" alt="piece in progress" style="width: 100%;"/> </td>
+<td> <img src="images/piece6.jpg" alt="piece in progress" style="width: 100%;"/> </td>
+<td> <img src="images/piece7.jpg" alt="piece in progress" style="width: 100%;"/> </td>
+<td> <img src="images/piece8.jpg" alt="piece in progress" style="width: 100%;"/> </td>
+</tr></table>
+
+<table border="0" width="100%"><tr>
+<td> <img src="images/final1.jpg" alt="final piece" style="width: 100%;"/> </td>
+<td> <img src="images/final2.jpg" alt="final piece" style="width: 100%;"/> </td>
 </tr></table>
 
 ## Description
