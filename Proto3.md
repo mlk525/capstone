@@ -1,7 +1,6 @@
 # Prototype 3: seven hours.
 
 <table border="0" width="100%"><tr>
-<td> <img src="images/prep1.jpg" alt="'finished' crochet piece" style="width: 100%;"/> </td>
 <td> <img src="images/prep2.jpg" alt="'finished' crochet piece" style="width: 100%;"/> </td>
 <td> <img src="images/prep3.jpg" alt="text draft" style="width: 100%;"/> </td>
 <td> <img src="images/prep4.jpg" alt="text final" style="width: 100%;"/> </td>
