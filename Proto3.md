@@ -1,15 +1,15 @@
 # Prototype 3: seven hours.
 
 <table border="0" width="100%"><tr>
-<td> <img src="images/final1.jpg" alt="Drawing" style="width: 33%;"/> </td>
-<td> <img src="images/final2.jpg" alt="Drawing" style="width: 33%;"/> </td>
-<td> <img src="images/final1.jpg" alt="Drawing" style="width: 33%;"/> </td>
+<td> <img src="images/final1.jpg" alt="Drawing" style="width: 100%;"/> </td>
+<td> <img src="images/final2.jpg" alt="Drawing" style="width: 100%;"/> </td>
+<td> <img src="images/final1.jpg" alt="Drawing" style="width: 100%;"/> </td>
 </tr></table>
 
 
-<table border="1" width="100%"><tr>
-<td> <img src="images/final1.jpg" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="images/final2.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<table border="0" width="100%"><tr>
+<td> <img src="images/final1.jpg" alt="Drawing" style="width: 100%;"/> </td>
+<td> <img src="images/final2.jpg" alt="Drawing" style="width: 100%;"/> </td>
 </tr></table>
 
 ## Description
