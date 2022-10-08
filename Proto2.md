@@ -1,7 +1,9 @@
-# Production Assignment: Digital Art with Loops
+# Production Assignment: Digital Art & Heritage
 
 ## Description
+This week I decided to experiment with generative, algorithmic art. I was inspired by a [video](https://www.youtube.com/watch?v=LaarVR1AOvs) that popped up in my recommendeds exploring how Processing could be used to recreate "vintage" computer art. The video raised the question of whether some forms of electronic media has reached a point where they were now considered "historic" or at least museum-worthy. I think the answer is a yes.
 
+I have found examples of obsolete electronic media being displayed in museums around the world, even discovering an [online museum](https://obsoletemedia.org/) exclusively dedicated to the documentation and preservation of obsolete media in audio, video, film, and data storage.
 
 ## Geometric Art inspired by "vintage" computer graphics
 ![Art with Trigonometric functions in for() loops](https://github.com/mike-leo-k/intro-to-im/blob/master/june%202/digital_art_1.png)
