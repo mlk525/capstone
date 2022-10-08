@@ -11,7 +11,7 @@ I decided to create a textile piece designed to be destroyed over the course of 
 <td> <img src="images/prep5.jpg" alt="text final" style="width: 100%;"/> </td>
 </tr></table>
 
-I crocheted a swatch of yarn, about 25x31cm, and left the last stitch loose. While crocheting the piece, I drafted a piece of paper that would go behind the fabric, designed to be slowly revealed as the fabric was pulled undone. I titled the piece "seven hours" because of the total amount of time it took me to finish it (and consequently the final message on the paper). 
+I crocheted a swatch of yarn, about 25x31cm, and left the last stitch loose. While crocheting the piece, I drafted a piece of paper that would go behind the fabric, designed to be slowly revealed as the fabric was pulled undone. I titled the piece "seven hours" because of the total amount of time it took me to finish it (and consequently the final message on the paper). I pinned up the crochet piece (in front of the paper with the printed messages) firstly in front of the entrance to our dorm, inviting people to pull the loose yarn with a little sign. 
 
 <table border="0" width="100%"><tr>
 <td> <img src="images/piece1.jpg" alt="'final' piece" style="width: 100%;"/> </td>
@@ -26,29 +26,11 @@ I crocheted a swatch of yarn, about 25x31cm, and left the last stitch loose. Whi
 <td> <img src="images/piece8.jpg" alt="piece in progress" style="width: 100%;"/> </td>
 </tr></table>
 
+The piece came undone over the course of two days, initially helped along by me. There was something intense about the messages behind the fabric that resonated with my friends, and some of them even lifted the piece to look at the remaining messages without pulling on the yarn. The experience of pulling on the yarn and un-knotting stitches felt very tactile (for lack of a better word), and sometimes people would undo more than one row of stitches at a time.
+
 <table border="0" width="100%"><tr>
 <td> <img src="images/final1.jpg" alt="final piece" style="width: 100%;"/> </td>
 <td> <img src="images/final2.jpg" alt="final piece" style="width: 100%;"/> </td>
 </tr></table>
 
-## Description
-Two simple works of art, inspired by old computer generated graphics. Makes use of for() loops to achieve the "vintage" look of classic computer art. I used [this](https://www.youtube.com/watch?v=LaarVR1AOvs) tutorial for inspiration.
-
-## Screenshot of Output:
-
-### Art with rotate() and trigonometric functions within for loops
-![Art with Trigonometric functions in for() loops](https://github.com/mike-leo-k/intro-to-im/blob/master/june%202/digital_art_1.png)
-
-### Art with random() function within for() loops
-
-<details>
-  <summary>Warning, fast flashing images!</summary>
-  
-![Art with random() functions in for() loops](https://github.com/mlk525/intro-to-im/blob/master/june%202/digital_art_2.gif)
-</details>
-
-
-## Challenges/Discoveries
-* Using the rotate() function within the for() loop proved more challenging than I thought, but I was able to manipulate it satisfactorily after reading up on its Reference page.
-* The random() function generates decimal numbers as well, which aren't accepted in RGB values, so I truncated it by adding (int) before each random() function.
-* Playing around with the sin() function and observing the effects of multiplicative and additive factors was actually quite interesting.
+This was a very interesting experience for me, and I think it was the closest I've come to a "traditional" interactive art piece. I've left up what remains of the piece, and the pile of yarn sitting below the completely revealed paper continues to greet visitors to our dorm. I'm not sure if this brought me closer or took me farther away from finalizing on ideas for my capstone project, but it was quite an interesting exercise. If I were to implement it as one of the exhibition pieces for my capstone, I would do a circular piece instead, one that more closely resembles a traditional mandala, that takes far longer than seven hours to complete. I would also love to find a parallel for sharing the crocheted mandala with the world, as is Buddhist tradition (by pouring the sand mandala into running water).
