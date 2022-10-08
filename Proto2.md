@@ -13,7 +13,11 @@
 </details>
 
 ## Algorithmic Art inspired by geometric Zellij pieces
-[![Algorithmic Zellij pattern](images/zellij%20pattern.png)](https://youtu.be/Li-B1tOE9Wk)
+<p align="center">
+  <a href="https://youtu.be/Li-B1tOE9Wk">
+  <img width="500" src="images/zellij%20pattern.png)">
+  </a>
+</p>
 
 ## Algorithmic Art inspired by Islamic geometric patterns & the Expo 2020 logo design
 <table border="0" width="100%"><tr>
