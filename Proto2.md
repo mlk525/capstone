@@ -8,6 +8,7 @@ I have found examples of obsolete electronic media being displayed in museums ar
 
 ### Geometric Art inspired by "vintage" computer graphics
 ![Art with Trigonometric functions](https://github.com/mike-leo-k/intro-to-im/blob/master/june%202/digital_art_1.png)
+
 [Code](https://github.com/mlk525/capstone/blob/main/code/vintage_art1.pde)
 
 <details>
@@ -15,6 +16,7 @@ I have found examples of obsolete electronic media being displayed in museums ar
   
 ![Art with random() functions](https://github.com/mlk525/intro-to-im/blob/master/june%202/digital_art_2.gif)
 </details>
+
 [Code](https://github.com/mlk525/capstone/blob/main/code/vintage_art2.pde)
 
 
