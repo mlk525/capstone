@@ -15,7 +15,7 @@
 ## Algorithmic Art inspired by geometric Zellij pieces
 <p align="center">
   <a href="https://youtu.be/Li-B1tOE9Wk">
-  <img width="500" src="images/zellij pattern.png)">
+  <img width="500" src="images/zellij pattern.png">
   </a>
 </p>
 
