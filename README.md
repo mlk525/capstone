@@ -9,3 +9,7 @@
 [Prototype 4](https://github.com/mlk525/capstone/blob/main/Proto4.md)
 
 [Artist Bio & Statement Draft](https://docs.google.com/document/d/15cpMYIInsthRpiUYgw6PuaYWV_Sy0xLNyKkoMBvNe_0/edit?usp=sharing)
+
+[Midterm Paper Draft]()
+
+[
