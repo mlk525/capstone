@@ -12,4 +12,12 @@
 
 [Midterm Paper Draft]()
 
-[
+[Reflection Blog Post](https://github.com/mlk525/capstone/blob/main/ReflectionPost.md)
+
+[Hardest Technology Blog Post]()
+
+[Question about the Art World](https://github.com/mlk525/capstone/blob/main/ArtWorldQ.md)
+
+[Elevator Pitch](https://github.com/mlk525/capstone/blob/main/ElevatorPitch.md)
+
+[Capstone Project Plan Draft]()
