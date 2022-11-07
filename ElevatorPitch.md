@@ -1,2 +1,2 @@
 # Elevator Pitch
-My project (untitled for now) is a interactive installation that takes the form of a collection of museum objects "come to life". Closing the gap between the observer and the observed, the exhibition invites users (not viewers) to engage with an ancient culture
+My project (untitled for now) is a interactive installation that takes the form of a collection of museum objects "come to life". Closing the gap between the observer and the observed, the exhibition invites users (not viewers) to directly engage with an ancient culture (ancient Egypt for now). By using interactivity and elements of play to create a pedagogical space, my project seeks to contextualize and humanize the 'Other'.
