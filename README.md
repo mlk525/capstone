@@ -14,7 +14,7 @@
 
 [Reflection Blog Post](https://github.com/mlk525/capstone/blob/main/ReflectionPost.md)
 
-[Hardest Technology Blog Post]()
+[Hardest Technology Blog Post](https://github.com/mlk525/capstone/blob/main/HardestTech.md)
 
 [Question about the Art World](https://github.com/mlk525/capstone/blob/main/ArtWorldQ.md)
 
