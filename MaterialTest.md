@@ -6,6 +6,6 @@ In the budget I tentatively included 3 projectors, 3 Raspberry Pi starter kits, 
 Since he was already using the board the microSD card already had the OS installed, but I have flashed Raspbian (the RPi OS) onto microSD cards before so I don't think I'll have trouble with this step. After connecting the Pi to a TV screen as well as a keyboard and (wireless) mouse, I began to check if the board would be suitable for my use.
 
 <p align="center">
-  <img style="transform: rotate(90deg);" src="https://github.com/mlk525/capstone/blob/main/images/rpi_1.jpg">
+  <img style="transform: rotate(90deg);" src="https://github.com/mlk525/capstone/blob/main/images/rpi_01.jpg">
 </p>
 
