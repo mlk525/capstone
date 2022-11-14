@@ -9,7 +9,9 @@ Since he was already using the board the microSD card already had the OS install
   <img style="transform: rotate(90deg);" src="https://github.com/mlk525/capstone/blob/main/images/rpi_01.jpg">
 </p>
 
-The mouse was pretty difficult to use, but I'm assuming that's because it was wireless and the board wasn't able to process the signals fast enough? The keyboard worked fine, so I'm hoping using a wired mouse will solve this problem. Next, I ran a couple of p5.js sketches on the onboard Chromium browser; they worked well. Unfortunately, I wasn't able to test out my Mona Lisa prototype because I couldn't find a suitable webcam to use. After some research I found that the latest RPi camera module would be more than enough for my needs. I intend to test out the motion tracking with regular webcams before placing an order for the modules, but I preemptively changed the webcams to the RPi modules in my budget. 
+The mouse was pretty difficult to use, but I'm assuming that's because it was wireless and the board wasn't able to process the signals fast enough? The keyboard worked fine, so I'm hoping using a wired mouse will solve this problem. I also struggled to maintain a stable WiFi connection. The NYUAD Guest network kept disconnecting and wouldn't let me login, and eventually I had to turn on mobile hotspot on my phone to share its WiFi connection. I'll need to discuss this with Jack soon, I know he has experience connecting Pis to the school network.
+
+Next, I ran a couple of p5.js sketches on the onboard Chromium browser; they worked well. Unfortunately, I wasn't able to test out my Mona Lisa prototype because I couldn't find a suitable webcam to use. After some research I found that the latest RPi camera module would be more than enough for my needs. I intend to test out the motion tracking with regular webcams before placing an order for the modules, but I preemptively changed the webcams to the RPi modules in my budget. 
 
 <p align="center">
   <img style="transform: rotate(90deg);" src="https://github.com/mlk525/capstone/blob/main/images/rpi_2.jpg">
