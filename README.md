@@ -20,4 +20,6 @@
 
 [Elevator Pitch](https://github.com/mlk525/capstone/blob/main/ElevatorPitch.md)
 
-[Capstone Project Plan Draft](https://docs.google.com/spreadsheets/d/1kiOwU35uT_x77PDfoo0KjziMwBvWNyMwyvc3jpEg76I/edit?usp=sharing)
+[Updated Capstone Project Plan Draft](https://docs.google.com/spreadsheets/d/1kiOwU35uT_x77PDfoo0KjziMwBvWNyMwyvc3jpEg76I/edit?usp=sharing)
+
+[Testing Materials](https://github.com/mlk525/capstone/blob/main/MaterialTest.md)
