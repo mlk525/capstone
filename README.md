@@ -22,8 +22,8 @@
 
 [Testing Materials](https://github.com/mlk525/capstone/blob/main/MaterialTest.md)
 
-[Final Paper Draft](https://docs.google.com/document/d/1fQaYno_v_X7U24M8vgjS3btDFSGZhOUj6ZcwpgPI2KE/edit?usp=sharing)
+[Final Paper](https://docs.google.com/document/d/1fQaYno_v_X7U24M8vgjS3btDFSGZhOUj6ZcwpgPI2KE/edit?usp=sharing)
 
-[Final Presentation Draft](https://docs.google.com/presentation/d/14o3qP5AF3ZhRhVe81jGYDlm4MT5OWAAKBrLr0HwEvSc/edit?usp=sharing)
+[Final Presentation](https://docs.google.com/presentation/d/14o3qP5AF3ZhRhVe81jGYDlm4MT5OWAAKBrLr0HwEvSc/edit?usp=sharing)
 
 [Updated Capstone Project Plan & Budget](https://docs.google.com/spreadsheets/d/1kiOwU35uT_x77PDfoo0KjziMwBvWNyMwyvc3jpEg76I/edit?usp=sharing)
