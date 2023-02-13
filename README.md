@@ -2,7 +2,7 @@
 
 ## Spring 2023
 
-[Progress update (Jan 31)]()
+[Progress update (Jan 31)](https://github.com/mlk525/capstone/blob/main/Update_Jan31.md)
 
 [Progress update (Feb 7)]()
 
