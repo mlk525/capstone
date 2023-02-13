@@ -8,7 +8,7 @@
 
 [Progress update (Feb 14)]()
 
-[Capstone Information (submitted through form)]()
+[Capstone Information (submitted through form)](https://github.com/mlk525/capstone/blob/main/CapstoneInfo.md)
 
 ## Fall 2022
 
