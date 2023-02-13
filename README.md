@@ -8,6 +8,8 @@
 
 [Progress update (Feb 14)]()
 
+[Capstone Information (submitted through form)]()
+
 ## Fall 2022
 
 [Prototype 1](https://github.com/mlk525/capstone/blob/main/Proto1.md)
