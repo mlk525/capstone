@@ -6,7 +6,7 @@
 
 [Progress update (Feb 7)](https://github.com/mlk525/capstone/blob/main/Update_Feb7.md)
 
-[Progress update (Feb 14)]()
+[Progress update (Feb 14)](https://github.com/mlk525/capstone/blob/main/Update_Feb14.md)
 
 [Capstone Information (submitted through form)](https://github.com/mlk525/capstone/blob/main/CapstoneInfo.md)
 
