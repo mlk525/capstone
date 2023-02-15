@@ -1,5 +1,5 @@
 # Progress Update (Feb 14)
-
+The abstraction as decolonization concept proved to be kind of a breakthrough for me
 
 <details>
   <summary>Glitched portrait v0 demo</summary>
