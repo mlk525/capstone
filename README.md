@@ -2,11 +2,13 @@
 
 ## Spring 2023
 
-[Progress update (Jan 31)](https://github.com/mlk525/capstone/blob/main/Update_Jan31.md)
+[Progress update (Week 2)](https://github.com/mlk525/capstone/blob/main/Update_Jan31.md)
 
-[Progress update (Feb 7)](https://github.com/mlk525/capstone/blob/main/Update_Feb7.md)
+[Progress update (Week 3)](https://github.com/mlk525/capstone/blob/main/Update_Feb7.md)
 
-[Progress update (Feb 14)](https://github.com/mlk525/capstone/blob/main/Update_Feb14.md)
+[Progress update (Week 4)](https://github.com/mlk525/capstone/blob/main/Update_Feb14.md)
+
+[Progress update (Week 5)](https://github.com/mlk525/capstone/blob/main/Update_Feb21.md)
 
 [Capstone Information (submitted through form)](https://github.com/mlk525/capstone/blob/main/CapstoneInfo.md)
 
