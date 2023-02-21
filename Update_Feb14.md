@@ -12,6 +12,6 @@ Once I got the circle to react to my nose when I was a certain distance (or less
     </p>
 </details>
 
-[Code](https://editor.p5js.org/taxicabguy/sketches/RW4-ij04E) | [Demo](https://editor.p5js.org/taxicabguy/full/RW4-ij04E)
+[Code](https://editor.p5js.org/taxicabguy/sketches/iDiXLz4WS) | [Demo](https://editor.p5js.org/taxicabguy/full/iDiXLz4WS)
 
 Overall, I am happy with the direction that my project is headed and I’m looking forward to exploring different glitching effects. I also intend to ultimately use my own art to do this, manipulating a colonial style original to become a more contemporary postcolonial critique of itself (inspired by the images I found [last week](https://github.com/mlk525/capstone/blob/main/Update_Feb7.md)).
