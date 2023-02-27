@@ -2,6 +2,8 @@
 
 ## Spring 2023
 
+[Link to SketchUp Rendering of Capstone Exhibit](https://app.sketchup.com/share/tc/asia/FK7knxeknbw?stoken=yAJ99swskxp2vk_vWvlp3wTycg32im7oVUuVjkE8xtTcqb6Tdj_yz75O3I--8H19&source=web)
+
 [Progress update (Week 2)](https://github.com/mlk525/capstone/blob/main/Update_Jan31.md)
 
 [Progress update (Week 3)](https://github.com/mlk525/capstone/blob/main/Update_Feb7.md)
