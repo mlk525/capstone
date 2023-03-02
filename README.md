@@ -14,6 +14,8 @@
 
 [Capstone Information (submitted through form)](https://github.com/mlk525/capstone/blob/main/CapstoneInfo.md)
 
+[Progress update (User testing)](https://github.com/mlk525/capstone/blob/main/Update_Feb28.md)
+
 ## Fall 2022
 
 [Prototype 1](https://github.com/mlk525/capstone/blob/main/Proto1.md)
