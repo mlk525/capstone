@@ -5,11 +5,18 @@ First, I made some significant changes, including finding and modifying a cool p
 
 After making these changes, I scheduled user testing with another professor, but unfortunately, they had to cancel. So instead, I scheduled user testing with a bunch of my friends from different backgrounds. Here are some [short videos]() of them interacting with the piece.
 
-I also asked them to fill out a form for feedback and spoke to them about the experience. Here some of the questions on the form:
+I also asked them to fill out a form for feedback and spoke to them about the experience. Here the questions on the form:
 
 * What was your initial impression of *Look Closer*?
 * On a scale of 1-5, how much do you agree with the following statements:
-  * test
+  * I initially felt like I was looking at a picture of a regular painting.
+  * At some point I thought something was wrong with the piece.
+  * I felt watched by the painting.
+  * I could tell my movement affected the piece.
+  * I questioned my impact as a viewer on the piece.
+  * The experience challenged my perspective on the traditional gallery or museum experience.
+  * The installation made me think about observer-observed relationships in museum settings.
+  * The installation made me think about colonialism and decolonization.
 * (After providing the description) How did your experience compare to the description?
 * If you were to change the painting, what would you change it to? Would you stick with a well known painting?
 * If you were to change how your movement affected the piece, what would you change?
