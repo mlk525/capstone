@@ -16,6 +16,8 @@
 
 [Progress update (User testing)](https://github.com/mlk525/capstone/blob/main/Update_Feb28.md)
 
+[Progress update (Midterm exhibition)](https://github.com/mlk525/capstone/blob/main/Update_Mar7.md)
+
 ## Fall 2022
 
 [Prototype 1](https://github.com/mlk525/capstone/blob/main/Proto1.md)
