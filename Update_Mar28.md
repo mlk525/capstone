@@ -1,7 +1,7 @@
 # Progress Update - User Testing (Mar 28)
 I made some significant changes based on feedback from previous user testing, so let's get into those before I talk about the feedback and suggestions from user testing.
 
-Firstly, I've decided to switch the painting to "Merahi metua no Tehamana" by Paul Gauguin. I believe that Gauguin's work embodies the colonial and male gaze, which is something that I want to explore in my project. By using his painting, I hope to provoke a conversation about the way in which colonialism and the male gaze have influenced art and how we can move forward from this.
+Firstly, I've decided to switch the painting to "Merahi metua no Tehamana" by Paul Gauguin. I believe that Gauguin's work embodies the colonial and male gaze, which is something that I want to explore in my project. By using his painting, I hope to provoke a conversation about the way in which colonialism and the male gaze have influenced art and how we can move forward from this. More importantly, this painting is one of many works presented without context that would reflect badly on the artist and on the colonial environments that enabled them. Merahi metua no Tehamana is a protrait of Gauguin's "native wife" Teha'amana, who Gauguin claimed was 13 years old at the time of their marriage.
 
 In addition to this, I've added a wooden frame around the monitor to give the installation a more traditional and organic feel. This was done to emphasize the connection between the colonial and male gaze and the way in which traditional Tahitian art has been appropriated and commodified by Western artists.
 
