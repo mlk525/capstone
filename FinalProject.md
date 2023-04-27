@@ -13,7 +13,7 @@ In addition, I modified the layers of interaction so that Teha'amana disappears 
 
 I faced some challenges mounting the monitor onto the wall, but ultimately ended up using a TV I borrowed from the film equipment center. I used gaffer tape to attach the frame onto the TV and vertically mounted the TV onto the wall of the Project Space. This allowed me to create the immersive experience I was aiming for, and the end result was quite convincing.
 
-To really mimic the museum environment, I decided to add an audio tour element. I wrote and recorded a [script](https://docs.google.com/document/d/1psbUccZAMQccUvb2TxCv3yKFmKoST2b65F4_mL7d5v8/edit) that provided context for the piece while being critical of audio tours themselves. Viewers could access this audio tour via a QR code on the wall.
+To really mimic the museum environment, I decided to add an [audio tour](https://mlk525.github.io/audio-tour/) element. I wrote and recorded a [script](https://docs.google.com/document/d/1psbUccZAMQccUvb2TxCv3yKFmKoST2b65F4_mL7d5v8/edit) that provided context for the piece while being critical of audio tours themselves. Viewers could access this audio tour via a QR code on the wall.
 
 I set the Mac Mini that the project runs on to restart once a day, and there haven't been any issues. While the sketch slows down the longer it's active, it's not too noticeable since the Mac restarts just before the Project Space opens.
 
