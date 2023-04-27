@@ -1,6 +1,10 @@
 # Final Project Documentation
 I'm excited to share with you the final version of my interactive art installation project, which I presented at the final exhibition. Since my last update, I've incorporated some significant changes and additions that I believe have taken the project to a new level.
 
+<p align="center">
+  <img width="600" src="https://github.com/mlk525/capstone/blob/main/images/IMG_1556.JPG">
+</p>
+
 One of the biggest updates was incorporating artworks from three Tahitian artists into the project. I received eight pieces in total, which I incorporated into the installation. This was important to me because I wanted to honor and celebrate the culture and art of Tahiti and French Polynesia and avoid any appropriation or commodification.
 
 In addition, I modified the layers of interaction so that Teha'amana disappears from the frame quickly as you approach it, to be replaced by the text I wrote. Going even closer results in the question "What does it mean to decolonize Tahiti?" appearing briefly, after which each artwork from the Tahitian artists appears. This was meant to provoke thought-provoking ideas about the colonial and male gaze and the impact on art and culture.
