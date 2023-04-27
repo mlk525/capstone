@@ -1,16 +1,22 @@
 # Progress Update - User Testing (Mar 28)
-It's been a busy week, but I feel like I've made some great progress.
+I made some significant changes based on feedback from previous user testing, so let's get into those before I talk about the feedback and suggestions from user testing.
 
-First, I made some significant changes, including finding and modifying a cool p5js glitch effect and working it into my latest prototype. I decided to follow the advice of Prof. Yunis and made my latest prototype with the Mona Lisa. I edited the Mona Lisa into layers to allow for the eye-following effect and using stable diffusion, I created a skeletal version of the Mona Lisa to glitch into existence and freak out people who came too close. I also added text messages from the perspective of the painting, telling viewers to go away. I also wanted the installation to switch between different paintings, but I wasn't able to get that done in time for user testing.
+Firstly, I've decided to switch the painting to "Merahi metua no Tehamana" by Paul Gauguin. I believe that Gauguin's work embodies the colonial and male gaze, which is something that I want to explore in my project. By using his painting, I hope to provoke a conversation about the way in which colonialism and the male gaze have influenced art and how we can move forward from this.
 
-[Code](https://editor.p5js.org/taxicabguy/sketches/Lo7Ak6s5w) | [Demo](https://editor.p5js.org/taxicabguy/full/Lo7Ak6s5w)
+In addition to this, I've added a wooden frame around the monitor to give the installation a more traditional and organic feel. This was done to emphasize the connection between the colonial and male gaze and the way in which traditional Tahitian art has been appropriated and commodified by Western artists.
 
-After making these changes, I scheduled user testing with another professor, but unfortunately, they had to cancel. So instead, I scheduled user testing with a bunch of my friends from different backgrounds. Here are some [short videos](https://drive.google.com/file/d/1_2quWwiArDcM28HWAT7gpDf2jlCJwHnY/view?usp=sharing) of them interacting with the piece.
+<p align="center">
+  <img width="600" src="https://github.com/mlk525/capstone/blob/main/images/IMG_1528%20(2).JPG">
+</p>
 
-I also asked them to fill out a form for feedback and spoke to them about the experience. Here the questions on the form:
+Finally, I've incorporated AI generated art that emulates traditional Tahitian styles of painting. The intention behind this was to create a seamless transition between the painting and the AI generated art, highlighting the contrast between the colonial and male gaze and the way in which traditional Tahitian art has been appreciated and respected by its people.
 
-I got a lot of useful feedback from them, and I'm excited to make some more changes based on their suggestions. Here are some of the highlights:
-* Eye glitch can be improved to give a stronger sense of belonging to the painting (I did this between user tests)
+[Code](https://editor.p5js.org/taxicabguy/sketches/2da17lkPg) | [Demo](https://editor.p5js.org/taxicabguy/full/2da17lkPg)
 
+One of the biggest changes I made was to incorporate AI generated art that emulated traditional Tahitian styles of painting. I wanted to take the glitch effect even further and create a truly immersive experience that would transport viewers to a different time and place. By fading the painting into AI generated art, I was able to create a seamless transition that felt like the painting was coming to life in a whole new way.
 
-Finally, I've been continuing to work on the 3D model for the frame, which I expect will be done by the weekend. I'm also hoping to incorporate the multiple paintings idea into the project in time for the exhibition next week.
+During the second round of user testing, I got some really positive feedback about these changes. People thought the wooden frame added a nice touch and made the installation feel more polished and professional. They also loved the AI generated art and felt like it added a new layer of depth to the experience. Several people said they felt like they were transported to Tahiti and were amazed at how seamlessly the painting transitioned into the AI generated art.
+
+Of course, there were still some areas for improvement. Some people felt like the glitch effect could be even more pronounced, while others thought the eye-following effect was a little too subtle. But overall, the response was really positive, and I'm excited to continue working on the project and refining it even further.
+
+While the response to these changes during user testing was positive, I understand that there may still be room for improvement. I am committed to continuing to refine this project and create a meaningful and thought-provoking experience for viewers.
