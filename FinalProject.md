@@ -4,7 +4,8 @@ I'm excited to share the final version of Look Closer: Reclaiming Colonized Past
 <p align="center">
   <img width="600" src="https://github.com/mlk525/capstone/blob/main/images/IMG_1556.JPG">
 </p>
-[More photos and videos](https://drive.google.com/drive/folders/1pkQL4ozvFa16evAtpZgEUSggFIlxZu87?usp=sharing)
+
+[More photos and videos.](https://drive.google.com/drive/folders/1pkQL4ozvFa16evAtpZgEUSggFIlxZu87?usp=sharing)
 
 Since my [last update](https://github.com/mlk525/capstone/blob/main/Update_Apr4.md), I incorporated some significant changes and additions. One of the biggest updates was incorporating artworks from three Tahitian artists into the project. I incorporated eight pieces in total into the installation. This was an important step in making sure my message of ensuring representation and preventing erasure, appropriation, or commodification came through. The artists, [HTJ](https://www.instagram.com/htjdesigns/), [Tahiri Sommer](https://www.instagram.com/tahiri_sommer/), and [Evrard Chaussoy](http://www.evrardchaussoy.com/), were all excited to contribute to the piece! I'm really glad I took this step, and I believe their contributions took my project to the next level.
 
