@@ -14,9 +14,16 @@
 
 [Capstone Information (submitted through form)](https://github.com/mlk525/capstone/blob/main/CapstoneInfo.md)
 
-[Progress update (User testing)](https://github.com/mlk525/capstone/blob/main/Update_Feb28.md)
+[Progress update (User testing - February)](https://github.com/mlk525/capstone/blob/main/Update_Feb28.md)
 
 [Progress update (Midterm exhibition)](https://github.com/mlk525/capstone/blob/main/Update_Mar7.md)
+
+[Progress update (User testing - March)](https://github.com/mlk525/capstone/blob/main/Update_Mar28.md)
+
+[Progress update (Week 9)](https://github.com/mlk525/capstone/blob/main/Update_Apr4.md)
+
+[Final Project Documentation](https://github.com/mlk525/capstone/blob/main/FinalProject.md)
+
 
 ## Fall 2022
 
